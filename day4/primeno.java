@@ -11,7 +11,7 @@ public static void main(String args[])
 	{
 		if(a%i==0) 
 		{
-			count++;	
+			count++;	 
 		}
 	}
 	if(count==1) 
